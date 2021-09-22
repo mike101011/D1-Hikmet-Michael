@@ -1,4 +1,4 @@
-var a=[['Vienna',1,2,3,4],[1,2,'is',3,4],[1,2,3,'a',4],[1,2,3,4,'nice'],[1,"city",2,3,4]]; // A five dimensional array
+var a=[['Vienna',"cx","dx","ex","fx"],["cc","dd",'is',"ee","ff"],['xx',"yy","ZZ",'a',"vv"],["cc","2a","3a","4a",'nice'],["1a","city","2a","3a","4a"]]; // A five dimensional array
 var s=" "; // A string with a space
 var space=0;//This variable stores the space between the strings
 console.log(a[0][0]);//logs the first string
